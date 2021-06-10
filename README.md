@@ -1,6 +1,6 @@
 <a href="https://kodi.tv">KODI<a> (XBMC/OSMC/Firestick) audio addon for the <a href="https://podcasts.apple.com/us/podcast/whats-left/id1454736929">What's Left?</a> podcast.<br>
 
-<img src="https://i1.sndcdn.com/avatars-000589746015-s85f1y-original.jpg"><br>
+<img src="https://i1.sndcdn.com/avatars-000589746015-s85f1y-original.jpg" width="200" height="200" alt="What's Left?"><br>
 
 <a href="https://podcasts.apple.com/us/podcast/whats-left/id1454736929">What's Left?</a> is a podcast hosted by Aimee Terese and Oliver Bateman, discussing political theory, philosophy, and current affairs from a critical perspective.<br>
 
